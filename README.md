@@ -16,7 +16,7 @@ geometric factor f(θ), is shown to be the dominant controller of evaporation ra
 ## Drive Reports and Experimental Readings
 
 * 📄 **Full Report and experimental videos:** [View Report Document](https://drive.google.com/drive/folders/1RXzXpX4Z2a-q5e1aCOsQnQEUD751E6X-?usp=drive_link)
-* 📊 **Project Presentation:** [View Slides / Presentation]([YOUR_PRESENTATION_URL_HERE](https://canva.link/0q0s1ks9t1pfgok))
+* 📊 **Project Presentation:** [View Slides / Presentation]([https://canva.link/0q0s1ks9t1pfgok])
 
 
 
