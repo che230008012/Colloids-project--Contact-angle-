@@ -1,7 +1,7 @@
 # Colloids-project--Contact-angle-
 Contact Angle and Contact Radius Dynamics of a Drying Droplet: Evaporation Rates, Surface Tension Analysis, and Force Balance
 
-## Project Overview
+# Project Overview
 We report a comprehensive experimental and theoretical study of evaporation dynamics of sessile droplets
 on hydrophilic (glass) and hydrophobic (oil-coated glass) substrates at 30 ◦C and 45 ◦C using smartphone side-view
 imaging. We derive and apply analytical expressions for the volumetric evaporation rate |dV /dt|, the instantaneous
@@ -13,15 +13,15 @@ accelerates evaporation by ≈ 40% and shifts the CCR-to-CCA transition earlier.
 qualitative behavior with ≈ 2.5× faster drying. The diffusion-limited evaporation framework, particularly the
 geometric factor f(θ), is shown to be the dominant controller of evaporation rate.
 
-## Project Objectives
+# Project Objectives
 1. Investigate the evaporation dynamics of sessile droplets on hydrophilic (glass) and hydrophobic (oil-coated glass) substrates.
 2. Quantify the evolution of contact angle, contact radius, droplet volume, and evaporation rate during drying.
 3. Compare Constant Contact Radius (CCR) and Constant Contact Angle (CCA) evaporation modes under different surface wettability conditions.
 4. Study the influence of temperature (30°C and 45°C) and liquid properties (water and ethanol) on drying kinetics.
 5. Validate experimental observations using diffusion-limited evaporation theory and surface tension force balance.
 
-## Technical Summary
-# Equations & Models Used
+# Technical Summary
+## Equations & Models Used
 - Young's Equation for surface tension equilibrium
 - Force Balance at the Three-Phase Contact Line
 - Spherical Cap Geometry for Droplet Volume Calculation
@@ -30,7 +30,7 @@ geometric factor f(θ), is shown to be the dominant controller of evaporation ra
 - Work of Adhesion and Spreading Coefficient
 - Bond Number analysis for gravitational effects
 
-# Experimental & Computational Analysis
+## Experimental & Computational Analysis
 - Smartphone-based side-view imaging of sessile droplets
 - Contact angle and contact radius extraction using ImageJ
 - Droplet volume estimation from spherical-cap geometry
